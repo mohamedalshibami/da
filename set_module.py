@@ -80,4 +80,5 @@ try:
     import secrets 
 except:
    # os.system('python3 -m pip install secrets')
+    pass
 
