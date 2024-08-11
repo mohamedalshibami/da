@@ -81,12 +81,12 @@ def check_vip(user):
 if not os.path.isdir('database'):
     os.mkdir('database')
 
-API_ID = "1724716"
-API_HASH = "00b2d8f59c12c1b9a4bc63b70b461b2f"
+API_ID = "9111852"
+API_HASH = "54bf6db7c907da1b50b177aba15cb377"
 admin = 5639458117
 new_password = "jimibot" #التحقق بخطوتين للحسابات التي سيتم بيعها
 # Replace with your bot token
-token = "7057662293:AAHiWLGZOogFspM-rEym5A29rh9cT4TIGTo"
+token = "6889553594:AAEQXRwrfUCiJ11S9N36BT0XPNF3_6G5AfM"
 client = TelegramClient('BotSession', api_id=API_ID, api_hash=API_HASH).start(bot_token=token)
 bot = client
 
