@@ -73,7 +73,8 @@ try:
     import opentele
 except:
     os.system('python3 -m pip install pyqt5==5.15.4')
-    os.system('python3 -m pip install opentele')
+#    os.system('python3 -m pip install opentele')
+    print("done opentele")
 
 try: 
     import secrets 
