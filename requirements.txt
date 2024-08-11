@@ -4,7 +4,6 @@ schedule
 requests
 user_agent
 ipaddress
-struct
 pathlib
 typing
 aiosqlite
