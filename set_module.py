@@ -73,7 +73,7 @@ try:
     import opentele
 except:
     os.system('python3 -m pip install pyqt5==5.15.4')
-    os.system('python pip install opentele==1.15.1')
+    os.system('python3 pip install opentele==1.15.1')
     print("done opentele")
 
 try: 
