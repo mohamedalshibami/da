@@ -1,0 +1,16 @@
+telebot
+kvsqlite
+schedule
+requests
+user_agent
+base64
+ipaddress
+struct
+pathlib
+typing
+aiosqlite
+telethon
+pyrogram
+pyqt5==5.15.4
+opentele
+secrets
